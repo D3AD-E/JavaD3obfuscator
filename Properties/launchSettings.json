@@ -2,7 +2,7 @@
   "profiles": {
     "JarD3obfuscator": {
       "commandName": "Project",
-      "commandLineArgs": "-?"
+      "commandLineArgs": "D:\\Debugging\\Launcher2.jar.src.zip -dj"
     }
   }
 }

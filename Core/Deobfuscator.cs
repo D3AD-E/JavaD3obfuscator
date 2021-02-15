@@ -25,7 +25,7 @@ namespace JarD3obfuscator
             BannedWordsRegEx = new string[BannedWords.Length];
             for(int i = 0; i< BannedWords.Length; i++)
             {
-                BannedWordsRegEx[i] = BannedWords[i] + @"(\d)?\b";
+                BannedWordsRegEx[i] =@"\b"+ BannedWords[i] + @"(\d)?\b";
             }
         }
 
