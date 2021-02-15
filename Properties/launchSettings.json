@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "JarD3obfuscator": {
+      "commandName": "Project",
+      "commandLineArgs": "-?"
+    }
+  }
+}
